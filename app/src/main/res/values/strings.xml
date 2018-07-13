@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">recyc_v1</string>
+    <string name="name_one">Spride men</string>
+    <string name="name_two">Green lantern</string>
+    <string name="name_three">Loki</string>
 </resources>
+
